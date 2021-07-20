@@ -1,5 +1,18 @@
 # DevOps
+> DevOps = Developer Operations.
 
+DevOps is trying to connect operators with developers in a more efficient way. Thus, the goals between both teams align, communication increases, and speed and results are higher.
+
+DevOps is not a new person on the team or a new team.
+DevOps is more ...:
+|||
+-|-
+Culture| The change of culture in a company, the desire of both teams to collaborate.
+Automation| Being able to reproduce infrastructure as well as bugs are reproduced. Generate a culture in which both developers and operators automate all their tasks.
+Measurements| How much the goals of both teams take. Productivity is measured, how long a request to the API takes, how long it takes an operator to fix an incident in production, everything is measured.
+Sharing| Better internal tools shared by both teams so that the code in production is always in high quality and can be fixed as quickly as possible.
+
+With this, the idea is that one of the results is more deployments that contain fewer features and as a consequence, fewer errors in production.
 
 ### How to use a Dockerfile and handle dependencies to have them locked in
 One of the ways to solve the "" it works in my machine "" is by having homogeneity in all environments. Running code on our local machine should look as close to the test and production environment as possible.
